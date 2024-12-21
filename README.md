@@ -1,4 +1,4 @@
-MacOS/IOS packet sniffing to get ZZZ gacha history url for rng.moe with [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+MacOS/IOS packet sniffing to get ZZZ gacha history url for [rng.moe](https://zzz.rng.moe/en) with [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 as an alternative to using Stream or some other app
 
 ### IOS Certificates
