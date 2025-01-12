@@ -1,5 +1,4 @@
-MacOS/IOS packet sniffing to get Genshin/HSR/ZZZ gacha history URL using [mitmproxy](https://github.com/mitmproxy/mitmproxy)
-as an alternative to Stream
+MacOS/IOS packet sniffing to get Genshin/HSR/ZZZ gacha history URL using [mitmproxy](https://github.com/mitmproxy/mitmproxy).
 
 ### IOS Certificates
 
